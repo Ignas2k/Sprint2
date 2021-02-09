@@ -1,0 +1,1 @@
+SELECT * FROM sprint2.projektai;
